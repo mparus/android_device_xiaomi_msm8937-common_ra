@@ -175,3 +175,6 @@ persist.radio.aosp_usr_pref_sel=true
 ril.ecclist=000,08,100,101,102,110,112,118,119,120,122,911,999
 ril.subscription.types=NV,RUIM
 telephony.lteOnCdmaDevice=1
+
+# Do not cleanup unused fp
+ro.fingerprint.cleanup.unused=false
