@@ -533,11 +533,11 @@ vendor/lib64/vendor.qti.hardware.vpp@1.1.so
 # Media - from marmite (Wileyfox Swift 2) - 8.1
 vendor/lib/libOmxSwVdec.so
 vendor/lib/libOmxSwVencMpeg4.so
-vendor/lib/libMpeg4SwEncoder.so
+-vendor/lib/libMpeg4SwEncoder.so
 vendor/lib/libswvdec.so
 vendor/lib64/libOmxSwVdec.so
 vendor/lib64/libOmxSwVencMpeg4.so
-vendor/lib64/libMpeg4SwEncoder.so
+-vendor/lib64/libMpeg4SwEncoder.so
 vendor/lib64/libswvdec.so
 
 # Perf - from bardockpro (BQ Aquarius X Pro) - 8.1
