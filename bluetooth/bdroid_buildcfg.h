@@ -25,6 +25,7 @@
 #define BLE_VND_INCLUDED   TRUE
 
 // Wide-band speech support
+#define BTM_WBS_INCLUDED TRUE
 #define BTIF_HF_WBS_PREFERRED TRUE
 
 // skips conn update at conn completion
